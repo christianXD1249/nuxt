@@ -5,5 +5,6 @@ export default defineNuxtConfig({
 
     css: [
     '@picocss/pico/css/pico.min.css'
-  ]
+  ],
+  modules: ['@nuxt/image']
 })

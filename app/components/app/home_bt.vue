@@ -1,6 +1,6 @@
 <template>
   <button class="btn">
-    Click me
+      <NuxtLink to="/">Go to Home Page</NuxtLink>
     <slot />
   </button>
 </template>
