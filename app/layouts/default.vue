@@ -1,8 +1,11 @@
+
+<script setup lang="ts">
+</script>
+
 <template>
   <div>
-    <navbar /> <!-- Auto-imported from components/ -->
-    <main>
-      <slot /> <!-- Page content will be injected here -->
-    </main>
+<navbar />
+    <slot />
   </div>
 </template>
+
