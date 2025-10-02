@@ -5,7 +5,8 @@
 <template>
     <div>
         <h1>
-            Log Layout
+            test #1
+            
         </h1>
         <slot />
     </div>
